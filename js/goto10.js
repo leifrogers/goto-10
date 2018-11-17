@@ -10,6 +10,10 @@
  * unwanted line spaces, etc.  so the above currently seems the lesser
  * of evils here.
  * 
+ * basically, this seems to work fine on all forms of firefox i've ran
+ * 
+ * edge and chrome...not so much (although chrome running in fedora works)
+ * 
  */
 
 setInterval(function () {Math.random() > 0.49 ? document.getElementById("goto10").insertAdjacentHTML("beforeend", '⧸') : document.getElementById("goto10").insertAdjacentHTML("beforeend", '⧹');}, 1);
