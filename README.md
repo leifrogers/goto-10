@@ -10,4 +10,4 @@ while the javascript is limited to one giant line, the html demanded formatting 
 
 working example can be found here <a href="https://leifrogers.github.io/goto-10/">leifrogers.github.io/goto-10/</a>
 
-edge/chrome example can be found here <a href="https://leifrogers.github.io/goto-10/edge.html">leifrogers.github.io/goto-10/edge.html</a>
+edge/chrome example can be found here <a href="https://leifrogers.github.io/goto-10/edge">leifrogers.github.io/goto-10/edge</a>
