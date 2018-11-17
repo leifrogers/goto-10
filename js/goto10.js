@@ -6,10 +6,6 @@
  * to screw up microsoft edge and chrome (at least on a surface go)
  * but firefox holds true.
  * 
- * i tried normal / and \ but the word wrap was breaking along with
- * unwanted line spaces, etc.  so the above currently seems the lesser
- * of evils here.
- * 
  * basically, this seems to work fine on all forms of firefox i've ran
  * 
  * edge and chrome...not so much (although chrome running in fedora works)

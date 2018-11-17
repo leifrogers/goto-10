@@ -5,7 +5,7 @@
  * for the characters since the big soliduses seem to be
  * incompatible.
  * 
- * kerning issues have resulted but that's where we're at at the moment.
+ * firefox is iffy with this as the word wrap breaks at odd places
  * 
  */
 
